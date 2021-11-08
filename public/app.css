@@ -1,0 +1,30 @@
+﻿.mdl-navigation__link.active,
+.mdl-tabs__tab.active {
+  color: orange;
+  border-bottom: 2px solid orange;
+  font-weight: bold;
+}
+main {
+  padding: 0 20px;
+}
+
+.mdl-card__content {
+  display: flex;
+}
+
+.book-card__image {
+  height: 200px;
+  margin: 25px;
+}
+
+.mdl-card__actions {
+  text-align: right;
+}
+
+.mdl-grid.mdl-grid--no-spacing {
+  margin: 25px;
+}
+
+.book-cover {
+  width: 400px;
+}
